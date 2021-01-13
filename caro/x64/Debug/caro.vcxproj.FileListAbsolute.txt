@@ -1,2 +1,0 @@
-C:\Users\Sang\Desktop\caro\x64\Debug\caro.exe
-C:\Users\Sang\Desktop\caro\x64\Debug\caro.pdb
